@@ -1,0 +1,2 @@
+C:\Users\hanie\source\repos\DoeckerizeDotNetCore\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\hanie\Documents\GitHub\AspDotNetCore-On-Docker\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
